@@ -69,3 +69,4 @@ class Day(Problem):
 #
 #     def solution2(self):
 #         pass
+#
